@@ -1,0 +1,10 @@
+{
+  "prize_pool": [],
+  "total_won_value": 0,
+  "total_pool_value": 1000,
+  "draws_per_day": 8,
+  "prize_id_counter": 1,
+  "letter_counter": 0,
+  "draw_history": [],
+  "consolation_rewards": []
+}
